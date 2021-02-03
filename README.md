@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ha-170/python4semExercises/HEAD)
+
 # Python Handin
 ## cph-ha170
 
